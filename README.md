@@ -1,7 +1,6 @@
 # InventorySystem
 
 ![Unity](https://img.shields.io/badge/Unity-2021.3%2B-black?logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-10.0%2B-blue?logo=csharp&logoColor=white)
 ![Zenject](https://img.shields.io/badge/Zenject-purple?logo=unity&logoColor=white)
 ![Лицензия](https://img.shields.io/badge/Лицензия-MIT-green)
 
